@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Buntaa</h1>
+<h1 align="center">Hi 👋, I'm Bunta</h1>
 <h3 align="center">A "Self taught" mod author and full-stack developer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=buntaa&label=Profile%20views&color=0e75b6&style=flat" alt="buntaa" /> </p>
