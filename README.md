@@ -4,8 +4,13 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=buntaa&label=Profile%20views&color=0e75b6&style=flat" alt="buntaa" /> </p>
 
 <h3 align="left">Connect with me:</h3>
-luvsyntax on Discord
 <p align="left">
+  <a href="https://discord.com/users/503351586832252949" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/discord.svg"
+         alt="discord"
+         width="40"
+         height="40"/>
+  </a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
